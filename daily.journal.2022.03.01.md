@@ -1,13 +1,12 @@
 ---
-id: ylty3wsbvhvfsmfd3ehpdbi
+id: dtsy5i5f8qlsu1h168apo65
 title: '2022-03-01'
 desc: ''
-updated: 1646505138653
-created: 1646144822588
+updated: 1646505235816
+created: 1646505085839
 traitIds:
   - journalNote
 ---
-
 Todays note finds me immediately trying to figure out how to link to yesterdays journal?
 
 Some progress yesterday, especially when it comes to key bindings and overall environment setup.
