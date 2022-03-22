@@ -26,7 +26,7 @@ setsas 5b083fe0e400e100
 - [ ] [[BIG dedicated importer]]
 - [ ] [[EDT (Edge) Two Way Sync]]
 - [ ] [[Switch Image handling to Catalog Media]]
-- [ ] [[Add 'Visibility' and 'status' to mapping sheet]]
+- [ ] [[root.tsj.admin.snip.vis_and_status]]
 
 ### Gemstone:
 #### Backends
