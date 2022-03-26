@@ -14,3 +14,8 @@ traitIds:
 - [ ] Do Smithworks import.
 - [ ] create import_big.sh file to run it every day
 - [ ] modify Edge importer class to look in the Raw
+
+
+![[daily journal.journal.2022.02.28#personal-stuff,1:#jewelers-mutual-page-updates-with-language-support]]
+
+

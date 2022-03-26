@@ -31,7 +31,7 @@ setsas 5b083fe0e400e100
 ### Gemstone:
 #### Backends
 - [ ] [[Pologem]]
-- [ ] [[Simran Collection]]
+- [x] [[Simran Collection]]
 - [ ] [[Kabhir - Get images working]]
 - [ ] [[ ?? ]]
 
@@ -42,7 +42,7 @@ setsas 5b083fe0e400e100
 - [ ] [[ ?? ]]
 
 #### GN Diamond issues:
-- [ ] [[Add lab grown and studs to Diamond Hunt homepage]]
+- [x] [[Add lab grown and studs to Diamond Hunt homepage]]
 - [ ] [[Fix all templates to correctly show lab/natural]]
 - [ ] [[Adjust diamond sources in embeds to get rid of junk]]
 - [ ] [[360 videos not playing on initial page load ]]
