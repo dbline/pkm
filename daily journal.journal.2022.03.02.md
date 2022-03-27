@@ -2,7 +2,7 @@
 id: 034jntynzr8y8lot3sl9nwb
 title: '2022-03-02'
 desc: ''
-updated: 1646286693523
+updated: 1648322649428
 created: 1646237353392
 ---
 
@@ -35,6 +35,6 @@ graph TD; A-->B; A-->C;
 Sequence Diagrams
 sequenceDiagram participant Alice participant Bob Alice->>John: Hello John, how are you? John-->>Alice: Great! John->>Bob: How about you? Bob-->>John: Jolly good! 
 
-![[Point of Sale:|daily journal.journal.2022.02.28#point-of-sale]]
+
 
 

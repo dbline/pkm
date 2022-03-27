@@ -2,7 +2,7 @@
 id: nszaje7m22i81x4dieg3ikz
 title: '2022-02-28'
 desc: ''
-updated: 1646286733734
+updated: 1648322838848
 created: 1646065490762
 traitIds:
   - journalNote
@@ -17,8 +17,8 @@ setsas 5b083fe0e400e100
 
 ## Personal Stuff:
 
-- [ ] Complete Passport Application online and submit
-  - [ ] Crop Image to correct size and proportions
+- [x] Complete Passport Application online and submit
+  - [x] Crop Image to correct size and proportions
 
 ## TSJ Stuff:
 ### Point of Sale:
@@ -26,12 +26,12 @@ setsas 5b083fe0e400e100
 - [ ] [[BIG dedicated importer]]
 - [ ] [[EDT (Edge) Two Way Sync]]
 - [ ] [[Switch Image handling to Catalog Media]]
-- [ ] [[Add 'Visibility' and 'status' to mapping sheet]]
+- [ ] [[root.tsj.admin.snip.vis_and_status]]
 
 ### Gemstone:
 #### Backends
 - [ ] [[Pologem]]
-- [ ] [[Simran Collection]]
+- [x] [[Simran Collection]]
 - [ ] [[Kabhir - Get images working]]
 - [ ] [[ ?? ]]
 
@@ -42,7 +42,7 @@ setsas 5b083fe0e400e100
 - [ ] [[ ?? ]]
 
 #### GN Diamond issues:
-- [ ] [[Add lab grown and studs to Diamond Hunt homepage]]
+- [x] [[Add lab grown and studs to Diamond Hunt homepage]]
 - [ ] [[Fix all templates to correctly show lab/natural]]
 - [ ] [[Adjust diamond sources in embeds to get rid of junk]]
 - [ ] [[360 videos not playing on initial page load ]]
