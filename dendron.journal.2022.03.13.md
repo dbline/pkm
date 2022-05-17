@@ -7,7 +7,7 @@ created: 1647196967982
 traitIds:
   - journalNote
 ---
-Sunday afternoon.  Trying to get Dendron working across workspaces so I can move forward!!
+* Sunday afternoon.  Trying to get Dendron working across workspaces so I can move forward!!
 
 Steps today:
 
