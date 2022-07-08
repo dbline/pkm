@@ -2,7 +2,7 @@
 id: dxznmreBkr6TrkC4E10bF
 title: Tmux Cheatsheet
 desc: ''
-updated: 1643243329069
+updated: 1657241287742
 created: 1643243021685
 ---
 

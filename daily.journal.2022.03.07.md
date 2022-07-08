@@ -2,7 +2,7 @@
 id: hyket5fh0llmbm2vylilv7j
 title: '2022-03-07'
 desc: ''
-updated: 1647202274377
+updated: 1657241318633
 created: 1646674825481
 traitIds:
   - journalNote
@@ -11,7 +11,7 @@ traitIds:
 
 Things to accomplish today!
 
-- [ ] Send in Passport application
+- [X] Send in Passport application
 - [ ] Get dendron working in all VS Code windows
 
 
