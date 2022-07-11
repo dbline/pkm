@@ -12,4 +12,6 @@ Here is Mondays journal note.  Lets see if we can get shit to sync up!
 
 Monday's journal - being edited on the dev1 environment
 
+Why can't I find this note after I sync though?
+
 
