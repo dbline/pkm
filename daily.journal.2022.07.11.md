@@ -15,3 +15,4 @@ Monday's journal - being edited on the dev1 environment
 Why can't I find this note after I sync though?
 
 
+really?  are you here MF? - from WSL dendron
