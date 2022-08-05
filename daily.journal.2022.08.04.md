@@ -1,15 +1,9 @@
 ---
-id: v2mvr3w70bg4k0ksfa8vf3f
+id: or31lpenaygj69x8w9mj87w
 title: '2022-08-04'
 desc: ''
-updated: 1659622824121
-created: 1659622690692
+updated: 1659668713966
+created: 1659668713966
 traitIds:
   - journalNote
 ---
-Thursday - August 4th.
-
-Urgent Tasks (today!):
-
-[ ] Create Symphony jewelers importer
-
